@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9246ba6-8157-4d28-aff0-e4ec0081ad8a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/img/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/css/404.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/css/404.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/css/fashion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/css/fashion.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/css/main.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/css/women.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/css/women.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/fonts/ArialBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/fonts/BaroqueScript.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/fonts/Sylfaen.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/fonts/droid-sans-v8-latin-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/fonts/droid-sans-v8-latin-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/2-layers-text.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/2-layers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/7-layers-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/7-layers-new-trand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/7-layers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/add-icon-bascket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/alex-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/alex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/arrow-down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/arrow-left-product.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/arrow-left-product2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/arrow-left-slider.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/arrow-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/arrow-righr-slider.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/arrow-right-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/arrow-right-product.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/arrow-right-product2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/arrow-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/bascket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/bottom-list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/button-submit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/compare.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/discovery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/dribbble-copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/facebook-copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/facebook-like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/fb-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/foto-model-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/foto-model.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/gird.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/ipust-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/ipust.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/layer-21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/layer-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/layer-49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/layer-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/layer-53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/layer-55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/layer-65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/layer-66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/layer-67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/linked-in-copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/lorem-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/lorem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/madel-2-sales.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/master-cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/model-1-sales.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/model-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/model-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/model-3-sales.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/model-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/model-4-sales.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/model-5-sales.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/model-6-sales.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/model-7-sales.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/model-8-sales.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/model-foto-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/new-products-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/new-products-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/new-trand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/paypal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/rss-copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/shape-34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/shape-61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/slice-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/slice-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/slider-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/slider-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/slider-image-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/slider-the fashion-winter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/stair-1-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/stair-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/stair-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/the-fashin-for-winter-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/the-fashion-for-winter-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/the-fashion-for-winter-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/the-fashion-fow-winter-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/twitter-copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/visa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/wishit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/wishlist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/assets/images/zoom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/fashion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuxuryShop/women.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nextpage/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nextpage/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nextpage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReSciencesTest/libs/inflate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsTraining/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsTraining/js/app_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnJS/.idea/learnJS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Header/Header.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Header/Header.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Navbar/Navbar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Navbar/Navbar.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Profile/MyPosts/MyPosts.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Profile/MyPosts/Post/Post.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Profile/MyPosts/Post/Post.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Profile/Profile.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Profile/Profile.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1fRngJ4J30lpIvgqmliA5QltI97" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/img" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9246ba6-8157-4d28-aff0-e4ec0081ad8a" name="Default Changelist" comment="" />
+      <created>1596189887006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596189887006</updated>
+      <workItem from="1596189889887" duration="29710000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="121" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596198015785">
+      <screen x="0" y="27" width="1366" height="692" />
+    </state>
+    <state x="416" y="121" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.692@0.27.1366.692" timestamp="1596198015785" />
+    <state x="347" y="163" key="run.anything.popup" timestamp="1596195057824">
+      <screen x="0" y="27" width="1366" height="692" />
+    </state>
+    <state x="347" y="163" key="run.anything.popup/0.27.1366.692@0.27.1366.692" timestamp="1596195057824" />
+  </component>
+</project>
